@@ -1,0 +1,26 @@
+#profile-title: CoderVPN
+#profile-update-interval: 1
+#support-url: https://t.me/codervpnbot
+#announce: 🚀 CoderVPN 🚀 | CoderVPN приятного использования! | ДВОРЯНСКИЙ ЛОХ
+
+vless://9b428681-0ef7-41a5-bfab-404ca98cd473@pl.roblugo.su:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=pl.roblugo.su&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=bbfb4f7a53e22dd3#🇵🇱%20Польша
+
+vless://9b428681-0ef7-41a5-bfab-404ca98cd473@fi.roblugo.su:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=fi.roblugo.su&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=bbfb4f7a53e22dd3#🇫🇮%20Финляндия
+
+vless://5b8fb9a7-70b4-4d38-90eb-9f72e6ddf783@176.109.101.198:443?type=xhttp&security=reality&fp=chrome&sni=www.max.ru&pbk=Irvu1ScKMHoj6FBEPmYdj5RGvdpj1qwVLrQTu_OzNyY&sid=bbb76504&path=%2Fupdate#🇪🇸%20Испания%20%7C%20LTE
+
+vless://75807638-6f19-01f4-ae08-38492ee85c88@178.72.181.47:52006?type=tcp&security=tls&sni=cluster-de-2.firstvideocdn.ru&flow=xtls-rprx-vision#🇩🇪%20Германия
+
+vless://ec03e3cb-9e24-4aa9-ba4b-d802fe89a564@217.168.240.172:3443?type=xhttp&security=reality&fp=chrome&sni=kinopoisk.ru&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=ab&path=%2F#🇩🇪%20Германия%202
+
+vless://6e42b88a-b78f-fade-b164-791160cbaef5@195.209.88.180:443?type=ws&security=tls&sni=s28233.cdn.ngenix.net&host=s28233.cdn.ngenix.net&path=%2F#🇪🇸%20Испания
+
+vless://6e42b88a-b78f-Fade-b164-791160cbaef5@195.209.82.149:443?type=ws&security=tls&sni=s28233.cdn.ngenix.net&host=s28233.cdn.ngenix.net#🇪🇸%20Испания%202
+
+vless://34954be5-333b-Fade-ab1e-00c7df47eb28@195.209.90.178:443?type=ws&security=tls&sni=s28233.cdn.ngenix.net&host=s28233.cdn.ngenix.net#🇪🇸%20Испания%20%7C%20LTE
+
+vless://acf0e570-7061-4c86-8bf9-888f6d524c6d@5.129.194.194:7443?type=tcp&security=reality&fp=chrome&sni=www.intel.com&pbk=jpeewxNXhskiQBER8ZMUVQhXRNjwdKwR25moJoeAHTo&sid=550c7020d9&flow=xtls-rprx-vision#🇬🇧%20Великобритания
+
+vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@77.110.123.203:443?type=xhttp&security=reality&fp=random&sni=maps.apple.com&pbk=fS59W37_i8457GqkbB9_kdCfLCtWbl14qmVRnm2ty2I&sid=2da4299da566b7&host=maps.apple.com&path=%2Fapi%2Finternal%2Fd8f4e2a91c6b#🇺🇸%20США
+
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.231.81:443?type=tcp&security=reality&fp=chrome&sni=ozon.ru&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&sid=ad7dab462a323acb&flow=xtls-rprx-vision#🇷🇺%20Россия%20%7C%20LTE
