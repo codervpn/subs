@@ -1,7 +1,0 @@
-#profile-title: CoderVPN
-#profile-update-interval: 1
-#support-url: https://github.com/codervpn
-#announce: 🚀 CoderVPN 🚀 | CoderVPN приятного использования!
-
-vless://example1
-vless://example2
