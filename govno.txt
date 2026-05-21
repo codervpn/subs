@@ -1,7 +1,9 @@
-#title=GoveshkiVPN
-#description=Худший VPN во всей индустрии
+#profile-title: GoveshkiVPN
+#profile-update-interval: 1
+#support-url: https://t.me/codervpnbot
+#announce: Худший VPN во всей индустрии
 
-vless://b500fc1f-557b-4005-aa57-4d7bfa030fd1@89.125.62.239:4443?type=tcp&encryption=none&security=reality&pbk=E1qEgBHm3EC-F1wtC3RyvBmaxxWAbh_5NqlHbQQqEFU&fp=chrome&sni=www.apple.com&sid=834f6180bb26baa2&spx=%2F&flow=xtls-rprx-vision
-vless://b500fc1f-557b-4005-aa57-4d7bfa030fd1@fi.vbn-connect.shop:443?type=tcp&encryption=none&security=reality&pbk=qT3rfpTvhw4ZPyToqjzXVUQHy23k76xKeYDP1D31gQY&fp=chrome&sni=www.apple.com&sid=b9892730881271dc&spx=%2F&flow=xtls-rprx-vision
-vless://b500fc1f-557b-4005-aa57-4d7bfa030fd1@167.17.182.132:2053?type=tcp&encryption=none&security=reality&pbk=AQKyPEGT5OFZPSiet1nuNaM3R4UJo3RywoP1jXRJ8xc&fp=chrome&sni=www.google.com&sid=35&spx=%2F&flow=xtls-rprx-vision
-vless://b500fc1f-557b-4005-aa57-4d7bfa030fd1@fi.vbn-connect.shop:2053?type=tcp&encryption=none&security=reality&pbk=Rma8ieheTvWQD10V84eUfctSEBnUydnpRgvmip7KjzM&fp=chrome&sni=download.visualstudio.microsoft.com/&sid=5b8dd9dab4cc0b&spx=%2F&flow=xtls-rprx-vision
+🇸🇰 Словакия = vless://b500fc1f-557b-4005-aa57-4d7bfa030fd1@89.125.62.239:4443?type=tcp&encryption=none&security=reality&pbk=E1qEgBHm3EC-F1wtC3RyvBmaxxWAbh_5NqlHbQQqEFU&fp=chrome&sni=www.apple.com&sid=834f6180bb26baa2&spx=%2F&flow=xtls-rprx-vision
+🇫🇮 Финляндия = vless://b500fc1f-557b-4005-aa57-4d7bfa030fd1@fi.vbn-connect.shop:443?type=tcp&encryption=none&security=reality&pbk=qT3rfpTvhw4ZPyToqjzXVUQHy23k76xKeYDP1D31gQY&fp=chrome&sni=www.apple.com&sid=b9892730881271dc&spx=%2F&flow=xtls-rprx-vision
+🇳🇱 Нидерланды = vless://b500fc1f-557b-4005-aa57-4d7bfa030fd1@167.17.182.132:2053?type=tcp&encryption=none&security=reality&pbk=AQKyPEGT5OFZPSiet1nuNaM3R4UJo3RywoP1jXRJ8xc&fp=chrome&sni=www.google.com&sid=35&spx=%2F&flow=xtls-rprx-vision
+🇫🇮 Финляндия2 = vless://b500fc1f-557b-4005-aa57-4d7bfa030fd1@fi.vbn-connect.shop:2053?type=tcp&encryption=none&security=reality&pbk=Rma8ieheTvWQD10V84eUfctSEBnUydnpRgvmip7KjzM&fp=chrome&sni=download.visualstudio.microsoft.com/&sid=5b8dd9dab4cc0b&spx=%2F&flow=xtls-rprx-vision
